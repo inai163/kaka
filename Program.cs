@@ -7,4 +7,4 @@ public class Program
     string firstName = "Роман";
     string lastName = "Ганагин";
     Console.Writeline ("имя" + firstName));
-    Console.Writeline ("фамилия" + lasyName));
+    Console.Writeline ("фамилия" + lastName));
