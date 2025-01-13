@@ -8,3 +8,4 @@ public class Program
     string lastName = "Ганагин";
     Console.Writeline ("имя" + firstName));
     Console.Writeline ("фамилия" + lastName));
+//дописать код
